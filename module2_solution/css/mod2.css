@@ -139,12 +139,14 @@ h1{
 	text-align: center;
 	padding-top:2%; 
 	padding-bottom: 2%;
+	font-size : 250%;
 }
 
 div{
 	
     font-family: "Comic Sans MS", cursive, sans-serif;
     font-weight: bolder;
+    font-size: 105%; 
 }
 
 p{
